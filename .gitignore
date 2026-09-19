@@ -1,0 +1,4 @@
+*.vhd~
+incremental_db/
+db/
+output_files
